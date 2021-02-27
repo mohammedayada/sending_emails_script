@@ -1,0 +1,15 @@
+This Script sending emails from python
+If you want to send email from gmail account 
+you should enter in this link https://myaccount.google.com/lesssecureapps and Turn Allow less secure apps to ON 
+Then run main.py script in your terminal
+Choice 1 if you want send email to specific email
+   Enter your Email, password, message and subject
+   Enter pass of csv file contain receiver names and emails 
+   in this csv file first row contain name, email . show example.csv if you not understand
+
+Choice 2 if you want send email to specific email
+   Enter your Email, password, message and subject
+   Enter receiver Email
+   
+   
+All functions in function.py show it 
